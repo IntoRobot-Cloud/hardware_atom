@@ -6,6 +6,8 @@ IntoRobot Atom是一款小尺寸、双CPU设计、软硬件开源、代码完美
 
 Atom、IntoRobot App与IntoRobot云端服务形成一套完整的网络控制系统。
 
+
+
 ## 管脚描述:
 
 - **D0-D24:** 具有输入输出的功能，其输出电流最大值能达到25mA。在输入模式时用户可以选择是否配置内部上拉或下拉电阻(通常等于40kohm)。
@@ -26,7 +28,7 @@ Atom、IntoRobot App与IntoRobot云端服务形成一套完整的网络控制系
 - **RST-S:** STM32复位引脚。
 - **RST-N:** MTK7620N复位引脚。
 
-Atom硬件详细功能。请访问：[Atom 硬件详解](http://docs.intorobot.com/zh/hardware/)
+Atom硬件详细功能。请访问：[Atom 硬件详解](http://docs.intorobot.com/hardware/atom/hardware/#功能模块)
 
 更多功能，请访问：[www.intorobot.com](http://www.intorobot.com)
 
